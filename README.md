@@ -4,9 +4,9 @@ Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.g
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
 
-## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
+## Hard Skills
+- Programming: Full-Stack JavaScript, C++
+- Productivity tools: really comfortable with all kinds of wide range of tools 
 - Databases: MySQL, MongoDB
 - Tools & Methods: Git, Agile, TDD, etc
 
