@@ -1,4 +1,4 @@
-# Your Name
+# Me
 Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
 
 ## Summary
@@ -11,15 +11,17 @@ Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.g
 - Tools & Methods: Git, Agile, TDD, etc
 
 ## Experience
-**Company Name** (Dates)   
-Job Title
-- Accomplishment 1
-- Accomplishment 2  
+**Koulutuskuntayhtymä Tavastia, Vanajaveden Opisto** (2018-2021)   
+Project coordinator and ICT teacher
+- I coordinated a two-year project (funded Finnish National Agency for Education) focused on improving the ICT-skills of people struggling to survive in a digitalizing society
+- - ideated and implemented various activities beyond teaching to support the overall goals of the project.
+- - Taught necessary ICT skills to a diverse group of people, including elderly individuals, jail inmates, and immigrants. 
 
-**Company Name** (Dates)
-Job Title
-- Accomplishment 1
-- Accomplishment 2
+**Koulutuskuntayhtymä Tavastia, Vanajaveden Opisto** (2014-2018)
+ICT-teacher
+- Teaching all kinds of ICT skills in adult education center
+- - Cloud services, Video Editing, Productivity Tools
+- Being part of all kinds .... 
 
 ## Projects
 **Project 1** (link to project site or GitHub repo)  
