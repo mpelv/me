@@ -35,7 +35,11 @@ ICT-teacher
 
 ## Education
 **Automation Technology and Maintenance Program, Automation Technician, 120 credits** | Pirkanmaan koulutuskonserni-kuntayhtymä | 2009
+
 **Matriculation Examination** | 2009
+
 **Degree Programme in Information Technology, Computer Electronics** | Lahti University of Applied Sciences | 2016
+
 **Music Pedagogy Studies, Music theory ~25 ECTS** | Tampere University of Applied Sciences | 2018-2019
+
 **Teacher’s Pedagogical Qualification, 60 ECTS** | Häme University of Applied Sciences | 2021
