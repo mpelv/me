@@ -34,12 +34,15 @@ ICT-teacher
 - Accomplishment
 
 ## Education
-**Automation Technology and Maintenance Program, Automation Technician, 120 credits** | Pirkanmaan koulutuskonserni-kuntayhtymä | 2009
 
-**Matriculation Examination** | 2009
+- **Automation Technology and Maintenance Program, Automation Technician, 120 credits** | Pirkanmaan koulutuskonserni-kuntayhtymä | 2009
 
-**Degree Programme in Information Technology, Computer Electronics** | Lahti University of Applied Sciences | 2016
+- **Matriculation Examination** | 2009
 
-**Music Pedagogy Studies, Music theory ~25 ECTS** | Tampere University of Applied Sciences | 2018-2019
+- **Degree Programme in Information Technology, Computer Electronics** | Lahti University of Applied Sciences | 2016
 
-**Teacher’s Pedagogical Qualification, 60 ECTS** | Häme University of Applied Sciences | 2021
+- **Music Pedagogy Studies, Music theory ~25 ECTS** | Tampere University of Applied Sciences | 2018-2019
+
+- **Teacher’s Pedagogical Qualification, 60 ECTS** | Häme University of Applied Sciences | 2021
+
+- **Advanced Studies in Human-Technology Interaction** | Tampere University | Expected Graduation: fall 2024
