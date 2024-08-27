@@ -1,6 +1,6 @@
 # Projects
 
-## “EmotionAI” - https://youtu.be/JQmHmhoU91c <video src="https://youtu.be/JQmHmhoU91c" width="320" height="240" controls></video> 
+## “EmotionAI” - https://youtu.be/JQmHmhoU91c
 [![Watch the video](https://img.youtube.com/vi/JQmHmhoU91c/0.jpg)](https://youtu.be/JQmHmhoU91c)
 - Group Work as part of Human-Technology Interaction Research and Innovation Project -course
   - Ideation, research, programming, video editing…
@@ -9,6 +9,7 @@
 
 
 ## Personal Digital Story - https://youtu.be/MqUpuwpTnFA?si=o6D4ySdXbI5xzRWO
+[![Watch the video](https://img.youtube.com/vi/MqUpuwpTnFA?si=o6D4ySdXbI5xzRWO/0.jpg)](https://youtu.be/MqUpuwpTnFA?si=o6D4ySdXbI5xzRWO)
 - Personal and creative reflection of a topic learned as part of a Psychology in Human-Technology Interaction -course
   - Ideation, writing script, filming
 
