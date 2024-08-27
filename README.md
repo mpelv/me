@@ -1,6 +1,7 @@
 # Projects
 
-## “EmotionAI” - https://youtu.be/JQmHmhoU91c <video src="https://youtu.be/JQmHmhoU91c" width="320" height="240" controls></video>
+## “EmotionAI” - https://youtu.be/JQmHmhoU91c <video src="https://youtu.be/JQmHmhoU91c" width="320" height="240" controls></video> 
+[![Watch the video](https://youtu.be/JQmHmhoU91c)
 - Group Work as part of Human-Technology Interaction Research and Innovation Project -course
   - Ideation, research, programming, video editing…
 - My ongoing Masters thesis is based on this project
