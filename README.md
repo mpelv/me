@@ -19,13 +19,14 @@
   - Project management, video editing, required course work like blog posts 
 
 
+```javascript
 # Programming-related
 
 ## “EmotionAI” Technological Proof of Concept - https://youtu.be/FEWrFiK-P08?si=OZb0Zi5GJ_lPt6o8 
 [![Watch the video](https://img.youtube.com/vi/FEWrFiK-P08/0.jpg)](https://youtu.be/FEWrFiK-P08?si=OZb0Zi5GJ_lPt6o8)
 - Full-stack web app
   - Programming Bangle.js smartwatch to talk with the web-app
-
+```
 
 
 # Me
