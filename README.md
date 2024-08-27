@@ -19,7 +19,11 @@
   - Project management, video editing, required course work like blog posts 
 
 
+
+
 -----
+
+
 
 
 # Programming-related
