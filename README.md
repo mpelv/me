@@ -14,6 +14,7 @@
   - Ideation, writing script, filming
 
 ## Travelling Companion - https://youtu.be/kCIH6GDJX9w 
+[![Watch the video](https://img.youtube.com/vi/kCIH6GDJX9w/0.jpg)](https://youtu.be/kCIH6GDJX9w)
 - Team project created as part of Human-Centered Product Development -course
   - Project management, video editing, required course work like blog posts 
 
