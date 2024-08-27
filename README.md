@@ -21,9 +21,6 @@
 -----
 <br>
 <br>
------
-<br>
-<br>
 
 ## Programming-related
 
