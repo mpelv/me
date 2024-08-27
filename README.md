@@ -9,7 +9,7 @@
 
 
 ## Personal Digital Story - https://youtu.be/MqUpuwpTnFA?si=o6D4ySdXbI5xzRWO
-[![Watch the video](https://img.youtube.com/vi/MqUpuwpTnFA?si/0.jpg)](https://youtu.be/MqUpuwpTnFA?si=o6D4ySdXbI5xzRWO)
+[![Watch the video](https://img.youtube.com/vi/MqUpuwpTnFA/0.jpg)](https://youtu.be/MqUpuwpTnFA?si=o6D4ySdXbI5xzRWO)
 - Personal and creative reflection of a topic learned as part of a Psychology in Human-Technology Interaction -course
   - Ideation, writing script, filming
 
