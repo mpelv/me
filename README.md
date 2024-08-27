@@ -18,13 +18,11 @@
 - Team project created as part of Human-Centered Product Development -course
   - Project management, video editing, required course work like blog posts 
 
-
-
-
+<br>
+<br>
 -----
-
-
-
+<br>
+<br>
 
 # Programming-related
 
