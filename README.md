@@ -1,4 +1,4 @@
-# Some University Projects I'm Proud Of
+# Some University projects I'm Proud Of
 
 ### “EmotionAI” - [Watch on YouTube](https://youtu.be/JQmHmhoU91c)
 [![Watch the video](https://img.youtube.com/vi/JQmHmhoU91c/0.jpg)](https://youtu.be/JQmHmhoU91c)
