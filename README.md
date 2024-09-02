@@ -3,7 +3,8 @@
 ### “EmotionAI” - https://youtu.be/JQmHmhoU91c
 [![Watch the video](https://img.youtube.com/vi/JQmHmhoU91c/0.jpg)](https://youtu.be/JQmHmhoU91c)
 - Group Work as part of Human-Technology Interaction Research and Innovation Project -course
-  - Ideation, research, programming, video editing…
+  - We wanted to create a technological concept to help the emotional intelligence skills of children with ASD
+  - Ideation, research, programming, video editing
 - My ongoing Masters thesis is based on this project
   - The ongoing thesis currently goes under this topic: “AI generated images to support the teaching of emotional intelligence to children with ASD”
 -----
@@ -17,7 +18,12 @@
 ### Travelling Companion - https://youtu.be/kCIH6GDJX9w 
 [![Watch the video](https://img.youtube.com/vi/kCIH6GDJX9w/0.jpg)](https://youtu.be/kCIH6GDJX9w)
 - Team project created as part of Human-Centered Product Development -course
-  - Project management, video editing, required course work like blog posts
+  - Project management, ideating, video editing, course work like writing blog posts
+- Travelling Companion -concept was created based on these prerequisites: "How could new technologies improve the passenger experience of public transport in the
+future? Can novel technologies help consumers make sustainable choices when planning a
+journey or guide the passenger during the trip? We hope that you consider at least railway
+traffic as a part of the journey, but we encourage you to look at the whole journey from your
+doorstep to the destination."
 -----
 <br>
 
